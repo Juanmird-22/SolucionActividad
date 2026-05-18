@@ -1,6 +1,6 @@
 # Nombre del Proyecto
 
-API de Practica Git Flow
+API de Practica Git Flow Ingeneria de sotware 2
 
 ## Descripción
 
@@ -48,7 +48,7 @@ Respuesta esperada:
 
 ## Autores
 
-- Juan Miguel Robayo Diaz - Desarrollador 
+- Juan Miguel Robayo Diaz - Desarrollador full stack
 
 ## Codigo Estudiante
 
