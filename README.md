@@ -12,8 +12,7 @@ La API tiene un endpoint de estado que permite comprobar que el servidor esta fu
 
 Requisitos:
 
-- Node.js 20 o superior.
-- npm.
+Node.js 20+, muestra 
 
 Pasos:
 
@@ -49,7 +48,11 @@ Respuesta esperada:
 
 ## Autores
 
-- Juan Miguel Robayo Diaz - Desarrollador
+- Juan Miguel Robayo Diaz - Desarrollador 
+
+## Codigo Estudiante
+
+2220232004
 
 ## Flujo de trabajo Git
 
