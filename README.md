@@ -1,6 +1,6 @@
 # Nombre del Proyecto
 
-API de Practica Git Flow
+API de Practica Git Flow Ingeneria de sotware 2
 
 ## Descripción
 
@@ -12,7 +12,7 @@ La API tiene un endpoint de estado que permite comprobar que el servidor esta fu
 
 Requisitos:
 
-Node.js 20+, muestra 
+Node.js 20+ 
 
 Pasos:
 
@@ -48,7 +48,7 @@ Respuesta esperada:
 
 ## Autores
 
-- Juan Miguel Robayo Diaz - Desarrollador 
+- Juan Miguel Robayo Diaz - Desarrollador full stack
 
 ## Codigo Estudiante
 
