@@ -12,7 +12,7 @@ La API tiene un endpoint de estado que permite comprobar que el servidor esta fu
 
 Requisitos:
 
-Node.js 20+, muestra 
+Node.js 20+ 
 
 Pasos:
 
